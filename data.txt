@@ -1,0 +1,29 @@
+Un tipo de archivo en el que todos los valores están delimitados por comas.
+CSV
+
+Usado para definir una función.
+def
+
+Usado para definir una nueva clase.
+class
+
+Método usado para crear una nueva instancia de una clase.
+new
+
+Carácter usado para definir una variable de instancia.
+@
+
+Carácter usado para iniciar un comentario.
+#
+
+Usado para definir un nuevo módulo.
+module
+
+Comando para instalar una gema en Ruby (___ _______ GEM_NAME).
+gem install
+
+Método usado para convertir un valor numerico en un string.
+to_s
+
+Método usado para verificar si un array está vacio.
+empty?
