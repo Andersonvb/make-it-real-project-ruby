@@ -5,8 +5,4 @@ class Question
     @question = question
     @answer = answer
   end
-
-  def to_s
-    "#{@question}"
-  end
 end
