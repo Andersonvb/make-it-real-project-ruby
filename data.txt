@@ -1,6 +1,3 @@
-Un tipo de archivo en el que todos los valores están delimitados por comas.
-CSV
-
 Usado para definir una función.
 def
 
